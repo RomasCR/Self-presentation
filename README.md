@@ -1,5 +1,5 @@
 # Self-presentation
-PORTUGUÊS BRAZIL
+PORTUGUÊS BRASILEIRO
 Olá! Meu nome é Romario Costa Rolinski;
 Moro em Curitiba, Paraná;
 Meu hobby é usar o computador.
